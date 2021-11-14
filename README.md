@@ -10,4 +10,4 @@ https://github.com/NateWalchenbach/my-portfolio
 
 
 
-![image] https://github.com/NateWalchenbach/my-portfolio/blob/main/Assets/Pictures/Screen%20Shot%202021-11-13%20at%209.20.05%20PM.png?raw=true
+![] https://github.com/NateWalchenbach/my-portfolio/blob/main/Assets/Pictures/Screen%20Shot%202021-11-13%20at%209.20.05%20PM.png?raw=true
