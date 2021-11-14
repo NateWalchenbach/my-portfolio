@@ -6,3 +6,4 @@ About Me Website
 https://natewalchenbach.github.io/my-portfolio/
 
 ![](./Assests/Pictures/Screenshot.png)
+![](/Users/natewalchenbach/Documents/PROJECTS/my-portfolio/Assets/Pictures/Screenshot.png)
