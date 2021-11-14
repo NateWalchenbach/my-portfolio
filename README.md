@@ -1,7 +1,8 @@
 # my-portfolio
 
-Nate's About Me Website showcasing his skills
+About Me Website
 
+`Project Website Link`
 https://natewalchenbach.github.io/my-portfolio/
 
 ![](./Assests/Pictures/Screenshot.png)
