@@ -80,6 +80,11 @@ img {
   width: 25%;
   height: 25%;
 }
+
+.img-one {
+  width: 45%;
+  height: 45%;
+}
 header .user img {
   height: 17rem;
   width: 17rem;
