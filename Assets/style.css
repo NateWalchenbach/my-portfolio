@@ -266,6 +266,19 @@ header .navbar ul li a:hover {
   padding-right: 1rem;
   color: var(--minty);
 }
+
+.links-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: fit-content;
+}
+
+.fab {
+  color: var(--minty);
+  text-decoration: none;
+}
+
 @media (max-width: 1200px) {
   html {
     font-size: 55%;
